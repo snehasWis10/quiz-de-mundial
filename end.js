@@ -48,5 +48,5 @@ saveScoreBtn.addEventListener('click', (e) => {
   highScores.splice(MAX_HIGH_SCORES); // Keep only top 5
 
   localStorage.setItem('highScores', JSON.stringify(highScores));
-  window.location.assign('/'); // Redirect to homepage
+  window.location.assign('/index.html'); // Redirect to homepage
 });

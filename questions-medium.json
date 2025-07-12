@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Who won the Golden Boot in the 2018 FIFA World Cup?",
+    "choice1": "Harry Kane",
+    "choice2": "Kylian Mbappé",
+    "choice3": "Antoine Griezmann",
+    "choice4": "Cristiano Ronaldo",
+    "answer": 1
+  },
+  {
+    "question": "How many teams participated in the 2022 FIFA World Cup?",
+    "choice1": "32",
+    "choice2": "36",
+    "choice3": "48",
+    "choice4": "40",
+    "answer": 1
+  },
+  {
+    "question": "Which African team reached the semifinals of the FIFA World Cup for the first time in 2022?",
+    "choice1": "Senegal",
+    "choice2": "Cameroon",
+    "choice3": "Ghana",
+    "choice4": "Morocco",
+    "answer": 4
+  },
+  {
+    "question": "What was the name of the 2010 World Cup mascot?",
+    "choice1": "Zabivaka",
+    "choice2": "Zakumi",
+    "choice3": "Fuleco",
+    "choice4": "Footix",
+    "answer": 2
+  },
+  {
+    "question": "Which player has the most appearances in FIFA World Cup matches?",
+    "choice1": "Lothar Matthäus",
+    "choice2": "Miroslav Klose",
+    "choice3": "Cristiano Ronaldo",
+    "choice4": "Lionel Messi",
+    "answer": 4
+  },
+  {
+    "question": "Which country was disqualified from the 1994 FIFA World Cup for using overage players?",
+    "choice1": "Nigeria",
+    "choice2": "Chile",
+    "choice3": "Iraq",
+    "choice4": "None",
+    "answer": 4
+  },
+  {
+    "question": "Who scored the fastest goal in World Cup history?",
+    "choice1": "Cristiano Ronaldo",
+    "choice2": "Hakan Şükür",
+    "choice3": "Mbappé",
+    "choice4": "David Villa",
+    "answer": 2
+  },
+  {
+    "question": "In which year did Germany win its first FIFA World Cup?",
+    "choice1": "1954",
+    "choice2": "1974",
+    "choice3": "1990",
+    "choice4": "2006",
+    "answer": 1
+  },
+  {
+    "question": "Who was the captain of France when they won the 2018 FIFA World Cup?",
+    "choice1": "Paul Pogba",
+    "choice2": "Raphaël Varane",
+    "choice3": "Hugo Lloris",
+    "choice4": "Antoine Griezmann",
+    "answer": 3
+  },
+  {
+    "question": "Which player scored a hat-trick in the 1966 World Cup final?",
+    "choice1": "Pelé",
+    "choice2": "Geoff Hurst",
+    "choice3": "Gerd Müller",
+    "choice4": "Bobby Charlton",
+    "answer": 2
+  },
+  {
+    "question": "Who is Argentina's top scorer in World Cup history?",
+    "choice1": "Diego Maradona",
+    "choice2": "Gabriel Batistuta",
+    "choice3": "Lionel Messi",
+    "choice4": "Sergio Agüero",
+    "answer": 3
+  },
+  {
+    "question": "Which country hosted the FIFA World Cup twice before 2000?",
+    "choice1": "Brazil",
+    "choice2": "Italy",
+    "choice3": "Germany",
+    "choice4": "France",
+    "answer": 2
+  },
+  {
+    "question": "What is the official FIFA motto?",
+    "choice1": "For the Game. For the World.",
+    "choice2": "Play with Heart",
+    "choice3": "Fair Play Always",
+    "choice4": "One Game, One Dream",
+    "answer": 1
+  },
+  {
+    "question": "What’s the maximum number of substitutes allowed in the 2022 World Cup?",
+    "choice1": "3",
+    "choice2": "4",
+    "choice3": "5",
+    "choice4": "6",
+    "answer": 3
+  },
+  {
+    "question": "Which country won the 1998 FIFA World Cup?",
+    "choice1": "Brazil",
+    "choice2": "France",
+    "choice3": "Germany",
+    "choice4": "Argentina",
+    "answer": 2
+  }
+]

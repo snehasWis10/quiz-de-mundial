@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Which country has participated in every FIFA World Cup since it began in 1930?",
+    "choice1": "Brazil",
+    "choice2": "Germany",
+    "choice3": "Italy",
+    "choice4": "Argentina",
+    "answer": 1
+  },
+  {
+    "question": "Who scored the 'Hand of God' goal in the 1986 World Cup?",
+    "choice1": "Maradona",
+    "choice2": "Pelé",
+    "choice3": "Zico",
+    "choice4": "Valderrama",
+    "answer": 1
+  },
+  {
+    "question": "Who is the youngest player to score in a FIFA World Cup final?",
+    "choice1": "Pelé",
+    "choice2": "Mbappé",
+    "choice3": "Ronaldo Nazário",
+    "choice4": "Lionel Messi",
+    "answer": 1
+  },
+  {
+    "question": "How many goals did Just Fontaine score in a single World Cup (1958)?",
+    "choice1": "13",
+    "choice2": "10",
+    "choice3": "11",
+    "choice4": "12",
+    "answer": 1
+  },
+  {
+    "question": "What was the name of the official ball used in the 2006 FIFA World Cup?",
+    "choice1": "Teamgeist",
+    "choice2": "Jabulani",
+    "choice3": "Brazuca",
+    "choice4": "Telstar",
+    "answer": 1
+  },
+  {
+    "question": "Which country won the FIFA Women’s World Cup in 2019?",
+    "choice1": "Germany",
+    "choice2": "Netherlands",
+    "choice3": "USA",
+    "choice4": "Sweden",
+    "answer": 3
+  },
+  {
+    "question": "Which player was awarded the Golden Ball in the 2014 FIFA World Cup?",
+    "choice1": "Lionel Messi",
+    "choice2": "James Rodríguez",
+    "choice3": "Neymar",
+    "choice4": "Thomas Müller",
+    "answer": 1
+  },
+  {
+    "question": "Which nation has reached the FIFA World Cup final the most times without winning?",
+    "choice1": "Netherlands",
+    "choice2": "Hungary",
+    "choice3": "Croatia",
+    "choice4": "Czechoslovakia",
+    "answer": 1
+  },
+  {
+    "question": "In which stadium was the 1994 FIFA World Cup final held?",
+    "choice1": "Rose Bowl",
+    "choice2": "Maracanã",
+    "choice3": "Wembley",
+    "choice4": "San Siro",
+    "answer": 1
+  },
+  {
+    "question": "Which player has won the most Man of the Match awards in World Cup history?",
+    "choice1": "Messi",
+    "choice2": "Ronaldo",
+    "choice3": "Robben",
+    "choice4": "Zidane",
+    "answer": 1
+  },
+  {
+    "question": "What unique event occurred in the 1974 World Cup regarding team jerseys?",
+    "choice1": "Both teams wore white",
+    "choice2": "A team forgot their kit",
+    "choice3": "Netherlands wore no crest",
+    "choice4": "Germany wore away kit at home",
+    "answer": 2
+  },
+  {
+    "question": "Which country scored the most goals in a single World Cup tournament?",
+    "choice1": "Brazil 2002",
+    "choice2": "Germany 2014",
+    "choice3": "France 1998",
+    "choice4": "Hungary 1954",
+    "answer": 4
+  },
+  {
+    "question": "Who was the youngest captain in FIFA World Cup history?",
+    "choice1": "Tony Meola",
+    "choice2": "Rigobert Song",
+    "choice3": "Radamel Falcao",
+    "choice4": "Samuel Eto'o",
+    "answer": 2
+  },
+  {
+    "question": "Which two nations played the highest-scoring World Cup match ever (12 goals)?",
+    "choice1": "Austria vs Switzerland",
+    "choice2": "Brazil vs Germany",
+    "choice3": "Hungary vs El Salvador",
+    "choice4": "France vs Paraguay",
+    "answer": 1
+  },
+  {
+    "question": "Which manager won the FIFA World Cup both as a player and coach?",
+    "choice1": "Zidane",
+    "choice2": "Didier Deschamps",
+    "choice3": "Franz Beckenbauer",
+    "choice4": "Mario Zagallo",
+    "answer": 3
+  }
+]

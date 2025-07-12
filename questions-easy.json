@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Which country has won the most FIFA World Cups?",
+    "choice1": "Germany",
+    "choice2": "Brazil",
+    "choice3": "Argentina",
+    "choice4": "Italy",
+    "answer": 2
+  },
+  {
+    "question": "What is the name of the trophy awarded to FIFA World Cup winners?",
+    "choice1": "Golden Boot",
+    "choice2": "Golden Ball",
+    "choice3": "FIFA World Cup Trophy",
+    "choice4": "Champions Cup",
+    "answer": 3
+  },
+  {
+    "question": "Which country won the 2018 FIFA World Cup?",
+    "choice1": "Germany",
+    "choice2": "France",
+    "choice3": "Brazil",
+    "choice4": "Croatia",
+    "answer": 2
+  },
+  {
+    "question": "What color card means a player is sent off?",
+    "choice1": "Blue",
+    "choice2": "Yellow",
+    "choice3": "Green",
+    "choice4": "Red",
+    "answer": 4
+  },
+  {
+    "question": "Which country hosted the 2014 FIFA World Cup?",
+    "choice1": "Germany",
+    "choice2": "South Africa",
+    "choice3": "Brazil",
+    "choice4": "Russia",
+    "answer": 3
+  },
+  {
+    "question": "How many players are on the field for one team during a football match?",
+    "choice1": "9",
+    "choice2": "11",
+    "choice3": "10",
+    "choice4": "12",
+    "answer": 2
+  },
+  {
+    "question": "What is the maximum duration of a regular football match?",
+    "choice1": "90 minutes",
+    "choice2": "80 minutes",
+    "choice3": "100 minutes",
+    "choice4": "70 minutes",
+    "answer": 1
+  },
+  {
+    "question": "Who wears gloves on the field in football?",
+    "choice1": "Captain",
+    "choice2": "Referee",
+    "choice3": "Goalkeeper",
+    "choice4": "Defender",
+    "answer": 3
+  },
+  {
+    "question": "Which part of the body is not allowed to touch the ball?",
+    "choice1": "Foot",
+    "choice2": "Head",
+    "choice3": "Chest",
+    "choice4": "Hand",
+    "answer": 4
+  },
+  {
+    "question": "Which country hosted the 2022 FIFA World Cup?",
+    "choice1": "Russia",
+    "choice2": "USA",
+    "choice3": "Qatar",
+    "choice4": "Japan",
+    "answer": 3
+  },
+  {
+    "question": "Who is known as the ‘King of Football’?",
+    "choice1": "Ronaldo",
+    "choice2": "Messi",
+    "choice3": "Pelé",
+    "choice4": "Maradona",
+    "answer": 3
+  },
+  {
+    "question": "What happens if a football match ends in a tie in the knockout stage?",
+    "choice1": "Replay",
+    "choice2": "Extra time and penalties",
+    "choice3": "Golden goal",
+    "choice4": "Coin toss",
+    "answer": 2
+  },
+  {
+    "question": "Which country won the first ever FIFA World Cup?",
+    "choice1": "Argentina",
+    "choice2": "Italy",
+    "choice3": "Uruguay",
+    "choice4": "Brazil",
+    "answer": 3
+  },
+  {
+    "question": "What is the circular mark in the center of the football field called?",
+    "choice1": "Spot",
+    "choice2": "Kick circle",
+    "choice3": "Center circle",
+    "choice4": "Midfield arc",
+    "answer": 3
+  },
+  {
+    "question": "Which famous footballer has a statue at Madeira Airport in Portugal?",
+    "choice1": "Pelé",
+    "choice2": "Cristiano Ronaldo",
+    "choice3": "Neymar Jr",
+    "choice4": "Eusebio",
+    "answer": 2
+  }
+]

@@ -1,15 +1,42 @@
-const highScoresList = document.getElementById('highScoresList');
+const highScoresList = document.getElementById("highScoresList");
 
-// ✅ Read scores from localStorage
-const highScores = JSON.parse(localStorage.getItem('highScores')) || [];
-
-// ✅ Clear existing list (optional, for safety)
+// Clear list first (safety)
 highScoresList.innerHTML = "";
 
-// ✅ Loop and display top scores
-highScores.forEach(score => {
-  const li = document.createElement('li');
-  li.classList.add('high-score');
-  li.innerText = `${score.name} - ${score.score}`;
-  highScoresList.appendChild(li);
-});
+// 🔹 Render scores helper
+function renderScores(scores) {
+  highScoresList.innerHTML = "";
+
+  scores.forEach((score, index) => {
+    const li = document.createElement("li");
+    li.classList.add("high-score");
+
+    li.innerText = `${index + 1}. ${score.username || score.name} - ${score.score}`;
+    highScoresList.appendChild(li);
+  });
+}
+
+// 🔹 1. Try fetching from backend (MongoDB)
+fetch(`${API_BASE_URL}/scores/leaderboard`)
+  .then(res => {
+    if (!res.ok) throw new Error("Backend failed");
+    return res.json();
+  })
+  .then(data => {
+    if (data.length === 0) {
+      throw new Error("No backend data");
+    }
+    renderScores(data);
+  })
+  .catch(() => {
+    // 🔹 2. Fallback to localStorage
+    const localScores = JSON.parse(localStorage.getItem("highScores")) || [];
+
+    // Ensure consistent format
+    const formattedScores = localScores.map(score => ({
+      username: score.name,
+      score: score.score
+    }));
+
+    renderScores(formattedScores);
+  });

@@ -1,3 +1,4 @@
+const API_BASE_URL = "https://quiz-backend-0xno.onrender.com/api";
 const highScoresList = document.getElementById("highScoresList");
 
 // Clear list first (safety)
